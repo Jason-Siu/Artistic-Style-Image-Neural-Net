@@ -3,12 +3,12 @@ This program takes two images ( one for content, one for the style ), and combin
 
 In this case, the picture used for content was a picture of myself
 
-![]("./baseImage.jpg")
+<img src = "baseImage.jpg" width = 512 height = 512>
 
 And the style picture, was a famous art, called Starry Night, by Vincent Van Gogh
 
-![]("./style.jpg")
+<img src = "style.jpg" width = 512>
 
 And the combined result was
 
-![]("./funny.png")
+<img src = "funny.png" width = 512>
